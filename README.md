@@ -24,12 +24,6 @@ Explorador de personajes usando la API pública de **Rick and Morty**, desarroll
 
 ---
 
-## 📷 Captura
-
-![Rick & Morty App Screenshot](https://user-images.githubusercontent.com/000000/your_image.png)  
-<sub>Reemplaza este link por una screenshot real si quieres</sub>
-
----
 
 ## 🔧 Cómo usarlo
 
